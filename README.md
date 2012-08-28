@@ -9,4 +9,4 @@ Instrucciones
 ------------
 
  * Escribe el codigo de tu localidad en el archivo "idLocalidad". Este numero se puede obtener, de entre otros sitios, de la URL de la prediccion por municipios. Por ejemplo, para Madrid: http://www.aemet.es/es/eltiempo/prediccion/municipios/madrid-id28079 el codigo es *28079*
- * Inicia el programa con "__init__.py"
+ * Inicia el programa en __tyempo.py__
